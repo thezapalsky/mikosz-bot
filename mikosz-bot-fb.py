@@ -33,7 +33,7 @@ def readToken(name='token'):
         j = line.replace('\n','')
         token.append(j)
     return token
-    
+
 token = readToken()
 email = token[1]
 password = token[2]
@@ -42,7 +42,7 @@ def getRandomEmoteName():
     return random.choice(list(icons.keys()))
 
 def getWeatherInfo(city="Krakow, PL"):
-    owm = OWM('b430941259049a89fe332bb9f18f811f')
+    owm = OWM(token[4])
     mgr = owm.weather_manager()
     observation = mgr.weather_at_place(city)
     w = observation.weather

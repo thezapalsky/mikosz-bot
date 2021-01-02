@@ -33,7 +33,8 @@ def readToken(name='token'):
         j = line.replace('\n','')
         token.append(j)
     return token
-
+    
+token = readToken()
 email = token[1]
 password = token[2]
 

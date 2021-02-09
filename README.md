@@ -10,9 +10,17 @@ Facebook Messenger            |  Discord
 ## to do:
 - macOS context menu with Rumps
 - **code refactoring** (pls don't look there yet, it's a mess 😐)
+- dice roll
+- ~~restart feature~~
+- mail after fb session ends
+- ~~=randomemote with emote name~~
+- ~~some easter eggs~~
+- =hello command
+- =wotd -sub functionality
+- twitch notification
 
 ## new features:
-- admin commands added
+- admin commands
 - fixed some bugs
 - the bot can [rhyme](https://youtu.be/krrl1bP-b4U) in polish now, if you're curious how he does it - [DM](https://thezapalsky.github.io/) me.
 ![rap](gfx/rap.png "rap")

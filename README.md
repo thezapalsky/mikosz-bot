@@ -14,5 +14,5 @@ Facebook Messenger            |  Discord
 ## new features:
 - admin commands added
 - fixed some bugs
-- the bot can [rhyme](youtu.be/krrl1bP-b4U) in polish now, if you're curious how he does it - [DM](https://thezapalsky.github.io/) me.
+- the bot can [rhyme](https://youtu.be/krrl1bP-b4U) in polish now, if you're curious how he does it - [DM](https://thezapalsky.github.io/) me.
 ![rap](gfx/rap.png "rap")

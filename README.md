@@ -19,6 +19,11 @@ Facebook Messenger            |  Discord
 - =wotd -sub functionality
 - twitch notification
 
+## 2023 FRs:
+- random photo from 4ib najlepsza najsilniejsza
+- wciakla inside jokes (bionk etc.)
+- web interface @ thezapalsky (?)
+
 ## new features:
 - admin commands
 - fixed some bugs
